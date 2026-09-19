@@ -403,8 +403,6 @@ O projeto pode ser expandido futuramente para incorporar novos recursos, como:
 
 ---
 
-## 👥 Equipe
-
 ## 👥 Equipe — Loucos por Arduíno
 
 - [@dicaio](https://github.com/diego-caio) — Diego Caio de Ulhôa Augusto
@@ -412,6 +410,7 @@ O projeto pode ser expandido futuramente para incorporar novos recursos, como:
 - [@gbzambo](https://github.com/gbzambo) — Gabriel Torres Zambo
 - [@Lucas](https://github.com/luczss) — Lucas dos Santos Oliveira
 - [@Octavio](https://github.com/OctavioMello) — Octávio Mello Covre de Sousa
+- Enzo Leme Gomes
 
 ---
 
