@@ -8,6 +8,8 @@
 // Autor Rev2: Fábio Henrique Cabrini
 // Rev3: 1-11-2023 Refinamento do código e ajustes para o funcionamento no FIWARE Descomplicado
 // Autor Rev3: Fábio Henrique Cabrini
+// Rev4 18-09-2026 ajuste da rede wi-fi, senha também o IP do Broker MQTT e alteração da lamp001
+// Autor Rev4: Eduardo Guzeli Nogueira
 #include <WiFi.h>
 #include <PubSubClient.h>
 
